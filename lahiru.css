@@ -2,13 +2,14 @@
    
 }
 .btn1{
-    width: 10vw;
+    width: 130px;
 }
 .name1{
     font-weight: 500;
 }
 .frame1{
     background-color: red;
+    padding: 10px;
     
 }
 .paybotton{
